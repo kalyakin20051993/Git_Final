@@ -6,6 +6,6 @@ public class Calculator {
         int y;
         int z;
 
-        z = x * y;
+        z = x + y;
     }
 }
